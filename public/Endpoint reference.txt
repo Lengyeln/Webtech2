@@ -1,0 +1,4 @@
+Method:		Endpoint:			Usage:			Data:		
+get		/drink				get all drink		output all drink in json
+post		/addDrink			add new drink		input new drink in json
+get		/deleteDrink?name={name}	delete drink		input name as get parameter
